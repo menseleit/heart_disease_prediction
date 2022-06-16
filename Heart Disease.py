@@ -41,4 +41,3 @@ df.hist(figsize=(12,12))
 
 plt.plot(df1["Oldpeak"], label = 'Heart Disease against Oldpeak')
 
-#Idk if this is working
